@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.Throdoin.wally package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.Throdoin.wally\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-04 17:23+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/Application.vala:12
+msgid "Static wallpaper"
+msgstr ""
+
+#: src/Application.vala:13
+msgid "Welcome to Wally"
+msgstr ""
+
+#: src/Application.vala:17
+msgid "Wally - your wallpaper solution!"
+msgstr ""
+
+#: data/com.github.Throdoin.wally.desktop.in:3
+#: data/com.github.Throdoin.wally.appdata.xml.in:11
+msgid "Wally"
+msgstr ""
+
+#: data/com.github.Throdoin.wally.desktop.in:4
+msgid "Wally manager"
+msgstr ""
+
+#: data/com.github.Throdoin.wally.desktop.in:5
+#: data/com.github.Throdoin.wally.appdata.xml.in:12
+msgid "Your wallpaper solution!"
+msgstr ""
+
+#: data/com.github.Throdoin.wally.desktop.in:8
+msgid "wayland.png"
+msgstr ""
+
+#: data/com.github.Throdoin.wally.desktop.in:11
+msgid "Wallpaper;Manager;Settings;"
+msgstr ""
+
+#: data/com.github.Throdoin.wally.appdata.xml.in:14
+msgid ""
+"Create unique wallpapers for your desktop or choose from the presets. In "
+"need of a cool dynamic or a static wallpaper? - Wally has you covered!"
+msgstr ""

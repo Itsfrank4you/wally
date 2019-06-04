@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019 Throdoin <ferenc2603@gmail.com> -->
+<component type="desktop">
+  <custom>
+     <value key="x-appcenter-color-primary">#603461</value>
+     <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+     <value key="x-appcenter-suggested-price">5</value>
+  </custom>
+  <id>com.github.Throdoin.wally</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Wally</name>
+  <summary>Your wallpaper solution!</summary>
+  <description>
+    <p>Create unique wallpapers for your desktop or choose from the presets. In need of a cool dynamic or a static wallpaper? - Wally has you covered!</p>
+  </description>
+</component>

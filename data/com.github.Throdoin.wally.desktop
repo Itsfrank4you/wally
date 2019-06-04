@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Wally
+GenericName=Wally manager
+Comment=Your wallpaper solution!
+Categories=Utility;
+Exec=com.github.Throdoin.wally
+Icon=/wayland.png
+Terminal=false
+Type=Application
+Keywords=Wallpaper;Manager;Settings;

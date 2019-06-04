@@ -10,11 +10,13 @@ public class MyApp : Gtk.Application {
     protected override void activate () {
         var main_window = new Gtk.ApplicationWindow (this);
         var button1 = new Gtk.Button.with_label ("Static wallpaper");
-        button1.margin = 500;
+        var label1 = new Gtk.Label ("Welcome to Wally");
+        button1.margin = 500; 
         main_window.default_height = 900;
         main_window.default_width = 1310;
         main_window.title = "Wally - your wallpaper solution!";  
         main_window.add (button1);
+        main_window.add (label1);
         main_window.show_all ();
     }
 
